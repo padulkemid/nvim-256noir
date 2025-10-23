@@ -1,0 +1,68 @@
+* nvim-256noir
+
+/The perfect colorscheme for when you've seen too many colors./
+
+Is this just black and white? Mostly. For the minimalist who thinks other minimal themes are too flashy. Finally, a colorscheme that won't distract you from your code. Or your existential dread. It's not a bug, it's a feature; the feature is a lack of color.
+
+*** Why?
+
+Have you ever wondered why most syntax highlighting is about as subtle as a candy shop explosion? We have. So we fixed it. By removing most of the candy.
+
+~nvim-256noir~ is a Lua port of the classic ~vim-256noir~ by =andreasvc= bring some [[https://github.com/andreasvc/vim-256noir][love]] here please!
+
+*** Features
+
+- Shades of gray for most things.
+- Bright keywords to highlight structure. You get /some/ color.
+- Dark comments & strings to emphasize surrounding code.
+- Red for exceptional things (like constants & errors). Because some things demand attention.
+- It's Lua. So it's fast. Probably.
+
+*** Installation
+
+Install with ~lazy.nvim~:
+
+#+begin_src lua
+{
+  "padulkemid/nvim-256noir",
+  lazy = false,
+  priority = 1000,
+
+  config = function()
+    vim.cmd 'colorscheme 256noir'
+  end,
+}
+#+end_src
+
+Install with ~Intellij IDEA~:
+
+#+begin_example
+1. Goto `ext` folder and find `256noir.icls`.
+2. Settings -> Appearance -> Import `256noir`.
+#+end_example
+
+This theme in ~Intellij IDEA~ is best paired with ~High Contrast~ default theme.
+
+*** Screenshots
+
+#+caption: elips example (emacs-lisp)
+#+attr_html: :width 400px
+[[./assets/elips.png]]
+
+#+caption: nvim lua options (lua)
+#+attr_html: :width 400px
+[[./assets/options.png]]
+
+These were captured in *Dina Remastered 14pt* font.
+
+*** Usage
+
+Set the colorscheme in your ~init.lua~:
+
+#+begin_src lua
+vim.cmd.colorscheme("256noir")
+#+end_src
+
+*** Configuration
+
+None. You think we'd add options? That would be too colorful.
