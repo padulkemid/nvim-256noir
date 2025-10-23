@@ -66,6 +66,7 @@ return function(palette)
 		MiniClueSeparator = { fg = palette.darker_red },
 		MiniClueNextKey = { fg = palette.red },
 		MiniClueNextKeyWithPostKeys = { fg = palette.dark_red },
+		MiniClueDescGroup = { fg = palette.red },
 
 		["@text"] = { link = "Normal" },
 		["@text.strong"] = { fg = palette.white, bold = true },
