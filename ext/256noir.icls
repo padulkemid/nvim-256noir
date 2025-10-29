@@ -17,6 +17,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="ffa14f" />
     <option name="DOCUMENTATION_COLOR" value="281a33" />
+    <option name="EDITOR_GUTTER_BACKGROUND" value="" />
     <option name="ERROR_HINT" value="800002" />
     <option name="FILESTATUS_ADDED" value="62cc47" />
     <option name="FILESTATUS_COPIED" value="62cc47" />
@@ -43,6 +44,7 @@
     <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
     <option name="LOOKUP_COLOR" value="281a33" />
+    <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="cccccc" />
     <option name="MODIFIED_LINES_COLOR" value="1aabff" />
     <option name="NOTIFICATION_BACKGROUND" value="80" />
@@ -52,6 +54,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="999999" />
     <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
     <option name="SELECTION_BACKGROUND" value="6280" />
+    <option name="SELECTION_FOREGROUND" value="e6e6e6" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
     <option name="STRING_CONTENT_INDENT_GUIDE" value="54b33e" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="0" />
@@ -582,8 +585,8 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="870000" />
         <option name="ERROR_STRIPE_COLOR" value="8c1a" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -748,6 +751,8 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="NG.SIGNAL">
@@ -872,6 +877,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="0" />
+        <option name="EFFECT_COLOR" value="af0000" />
         <option name="ERROR_STRIPE_COLOR" value="b336b3" />
       </value>
     </option>
