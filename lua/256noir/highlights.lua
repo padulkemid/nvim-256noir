@@ -57,6 +57,8 @@ return function(palette)
 		WarningMsg = { link = "Number" },
 		Added = { fg = palette.white },
 		Changed = { fg = palette.dark_red },
+		FloatBorder = { fg = palette.darker_red },
+		FloatTitle = { fg = palette.another_red },
 
 		CmpItemKindDefault = { fg = palette.light_grey },
 
