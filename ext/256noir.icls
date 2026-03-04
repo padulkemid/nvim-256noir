@@ -1,95 +1,99 @@
 <scheme name="256noir" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">idea</property>
-    <property name="ideVersion">2024.2.3.0.0</property>
+    <property name="ideVersion">2025.3.3.0.0</property>
     <property name="originalScheme">256noir</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="BerkeleyMono Nerd Font Mono" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="9924" />
-    <option name="ANNOTATIONS_COLOR" value="ffffff" />
-    <option name="ActionButton.iconTextForeground" value="ffffff" />
-    <option name="Bookmark.Mnemonic.iconBackground" value="0" />
-    <option name="Bookmark.Mnemonic.iconBorderColor" value="e0861f" />
-    <option name="Bookmark.Mnemonic.iconForeground" value="ffffff" />
-    <option name="Bookmark.iconBackground" value="e0861f" />
-    <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="66" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
-    <option name="DELETED_LINES_COLOR" value="ffa14f" />
-    <option name="DOCUMENTATION_COLOR" value="281a33" />
+    <option name="ADDED_LINES_COLOR" value="009924" />
+    <option name="ANNOTATIONS_COLOR" value="FFFFFF" />
+    <option name="ActionButton.iconTextForeground" value="FFFFFF" />
+    <option name="Bookmark.Mnemonic.iconBackground" value="000000" />
+    <option name="Bookmark.Mnemonic.iconBorderColor" value="E0861F" />
+    <option name="Bookmark.Mnemonic.iconForeground" value="FFFFFF" />
+    <option name="Bookmark.iconBackground" value="E0861F" />
+    <option name="CARET_COLOR" value="FFFFFF" />
+    <option name="CARET_ROW_COLOR" value="000066" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="000000" />
+    <option name="DELETED_LINES_COLOR" value="FFA14F" />
+    <option name="DOCUMENTATION_COLOR" value="281A33" />
     <option name="EDITOR_GUTTER_BACKGROUND" value="" />
     <option name="ERROR_HINT" value="800002" />
-    <option name="FILESTATUS_ADDED" value="62cc47" />
-    <option name="FILESTATUS_COPIED" value="62cc47" />
-    <option name="FILESTATUS_DELETED" value="ed864a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ed864a" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="a9b837" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6666" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6666" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6666" />
-    <option name="FILESTATUS_MERGED" value="ed94ff" />
-    <option name="FILESTATUS_MODIFIED" value="4ff0ff" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4ff0ff" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4ff0ff" />
-    <option name="FILESTATUS_RENAMED" value="4ff0ff" />
-    <option name="FILESTATUS_addedOutside" value="62cc47" />
-    <option name="FILESTATUS_changelistConflict" value="ff6666" />
-    <option name="FILESTATUS_modifiedOutside" value="4ff0ff" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="b3b3b3" />
+    <option name="FILESTATUS_ADDED" value="62CC47" />
+    <option name="FILESTATUS_COPIED" value="62CC47" />
+    <option name="FILESTATUS_DELETED" value="ED864A" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="ED864A" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="A9B837" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="FF6666" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="FF6666" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="FF6666" />
+    <option name="FILESTATUS_MERGED" value="ED94FF" />
+    <option name="FILESTATUS_MODIFIED" value="4FF0FF" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4FF0FF" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4FF0FF" />
+    <option name="FILESTATUS_RENAMED" value="4FF0FF" />
+    <option name="FILESTATUS_addedOutside" value="62CC47" />
+    <option name="FILESTATUS_changelistConflict" value="FF6666" />
+    <option name="FILESTATUS_modifiedOutside" value="4FF0FF" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="B3B3B3" />
     <option name="GUTTER_BACKGROUND" value="131314" />
     <option name="INDENT_GUIDE" value="666666" />
     <option name="INFORMATION_HINT" value="450073" />
-    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="cccccc8c" />
-    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="cccccc8c" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="CCCCCC8C" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="CCCCCC8C" />
     <option name="LINE_NUMBERS_COLOR" value="999999" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
-    <option name="LOOKUP_COLOR" value="281a33" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="FFFFFF" />
+    <option name="LOOKUP_COLOR" value="281A33" />
     <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="" />
-    <option name="METHOD_SEPARATORS_COLOR" value="cccccc" />
-    <option name="MODIFIED_LINES_COLOR" value="1aabff" />
-    <option name="NOTIFICATION_BACKGROUND" value="80" />
-    <option name="QUESTION_HINT" value="5380" />
-    <option name="RECURSIVE_CALL_ATTRIBUTES" value="b4c738" />
+    <option name="METHOD_SEPARATORS_COLOR" value="CCCCCC" />
+    <option name="MODIFIED_LINES_COLOR" value="1AABFF" />
+    <option name="NOTIFICATION_BACKGROUND" value="000080" />
+    <option name="QUESTION_HINT" value="005380" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="B4C738" />
     <option name="RIGHT_MARGIN_COLOR" value="808080" />
     <option name="SELECTED_INDENT_GUIDE" value="999999" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="6280" />
-    <option name="SELECTION_FOREGROUND" value="e6e6e6" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
-    <option name="STRING_CONTENT_INDENT_GUIDE" value="54b33e" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="0" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="e6e6e65a" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="0" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="e6e6e65a" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="0" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="0" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="0" />
-    <option name="ScrollBar.Mac.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Mac.trackColor" value="0" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="0" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
-    <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
-    <option name="ScrollBar.background" value="0" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="0" />
-    <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
-    <option name="ScrollBar.hoverTrackColor" value="0" />
-    <option name="ScrollBar.thumbBorderColor" value="0" />
-    <option name="ScrollBar.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.trackColor" value="0" />
+    <option name="SELECTED_TEARLINE_COLOR" value="FFFFFF" />
+    <option name="SELECTION_BACKGROUND" value="006280" />
+    <option name="SELECTION_FOREGROUND" value="E6E6E6" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="FFFFFF" />
+    <option name="STRING_CONTENT_INDENT_GUIDE" value="54B33E" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="000000" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="FFFFFFBE" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="E6E6E65A" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="000000" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="FFFFFFBE" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="E6E6E65A" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="000000" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="FFFFFFBE" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="000000" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="000000" />
+    <option name="ScrollBar.Mac.thumbColor" value="FFFFFFBE" />
+    <option name="ScrollBar.Mac.trackColor" value="000000" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="000000" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="FFFFFFBE" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="E6E6E65A" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="000000" />
+    <option name="ScrollBar.Transparent.thumbColor" value="FFFFFFBE" />
+    <option name="ScrollBar.Transparent.trackColor" value="6E6E60" />
+    <option name="ScrollBar.background" value="000000" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="000000" />
+    <option name="ScrollBar.hoverThumbColor" value="FFFFFFBE" />
+    <option name="ScrollBar.hoverTrackColor" value="000000" />
+    <option name="ScrollBar.thumbBorderColor" value="000000" />
+    <option name="ScrollBar.thumbColor" value="FFFFFFBE" />
+    <option name="ScrollBar.trackColor" value="000000" />
     <option name="TEARLINE_COLOR" value="999999" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="143d00" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="143D00" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="452800" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="1847" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="001847" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="470047" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="330003" />
     <option name="VISUAL_INDENT_GUIDE" value="808080" />
-    <option name="WHITESPACES" value="ffffff" />
+    <option name="WHITESPACES" value="FFFFFF" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="666666" />
   </colors>
   <attributes>
@@ -230,7 +234,7 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="-1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -298,7 +302,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="585858" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -610,8 +614,7 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="585858" />
       </value>
     </option>
     <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
@@ -621,20 +624,20 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="585858" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="585858" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="0" />
+        <option name="FOREGROUND" value="585858" />
       </value>
     </option>
     <option name="JS.JSX_CLIENT_COMPONENT">
