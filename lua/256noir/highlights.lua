@@ -1,6 +1,6 @@
 return function(palette)
 	return {
-		Normal = { fg = palette.white, bg = palette.bg },
+		Normal = { fg = palette.red, bg = palette.bg },
 		NormalNC = { bg = palette.bg },
 		StatusLine = { fg = palette.bg, bg = palette.white },
 		StatusLineNC = { fg = palette.bg, bg = palette.dark_grey },
@@ -59,8 +59,12 @@ return function(palette)
 		Changed = { fg = palette.dark_red },
 		FloatBorder = { fg = palette.darker_red },
 		FloatTitle = { fg = palette.another_red },
+		Pmenu = { fg = palette.white },
 
 		CmpItemKindDefault = { fg = palette.light_grey },
+		BlinkCmpMenuBorder = { fg = palette.darker_red },
+		BlinkCmpSignatureHelpBorder = { link = "BlinkCmpMenuBorder" },
+		BlinkCmpDocBorder = { link = "BlinkCmpMenuBorder" },
 
 		MiniPickPrompt = { fg = palette.red },
 		MiniPickMatchRanges = { fg = palette.red },
