@@ -65,6 +65,7 @@ return function(palette)
 		BlinkCmpMenuBorder = { fg = palette.darker_red },
 		BlinkCmpSignatureHelpBorder = { link = "BlinkCmpMenuBorder" },
 		BlinkCmpDocBorder = { link = "BlinkCmpMenuBorder" },
+		BlinkCmpGhostText = { fg = palette.darker_grey },
 
 		MiniPickPrompt = { fg = palette.red },
 		MiniPickMatchRanges = { fg = palette.red },
