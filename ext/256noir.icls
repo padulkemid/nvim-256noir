@@ -6,7 +6,7 @@
     <property name="originalScheme">256noir</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="BerkeleyMono Nerd Font Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="009924" />
@@ -302,7 +302,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="585858" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
