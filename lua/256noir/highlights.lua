@@ -2,8 +2,8 @@ return function(palette)
 	return {
 		Normal = { fg = palette.white, bg = palette.bg },
 		NormalNC = { bg = palette.bg },
-		StatusLine = { fg = palette.bg, bg = palette.white },
-		StatusLineNC = { fg = palette.bg, bg = palette.dark_grey },
+		StatusLine = { fg = palette.white, bg = palette.bg },
+		StatusLineNC = { fg = palette.dark_grey, bg = palette.bg },
 		WinSeparator = { fg = palette.white, bg = palette.bg },
 		EndOfBuffer = { fg = palette.bg },
 
@@ -74,6 +74,9 @@ return function(palette)
 		MiniClueNextKey = { fg = palette.red },
 		MiniClueNextKeyWithPostKeys = { fg = palette.dark_red },
 		MiniClueDescGroup = { fg = palette.red },
+
+		IblIndent = { fg = palette.darker_grey },
+		IblScope = { fg = palette.darker_grey },
 
 		["@text"] = { link = "Normal" },
 		["@text.strong"] = { fg = palette.white, bold = true },
